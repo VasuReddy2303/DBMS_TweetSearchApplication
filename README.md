@@ -31,13 +31,3 @@ References:
 
 
 
-Team members:
-
-Adish Golechha (ag2384)
-
-Fnu Vasureddy (fv121)
-
-Pradhyumna Kanth Goud Kasula (pk732)
-
-Shreyash Kalal (ssk241)
-
